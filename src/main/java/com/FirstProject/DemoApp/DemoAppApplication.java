@@ -15,5 +15,6 @@ public class DemoAppApplication {
 		System.out.println("changing in main");
 		System.out.println("changing in feature");
 		System.out.println("changing in feature2");
+		System.out.println("changing in feature3");
 	}
 }

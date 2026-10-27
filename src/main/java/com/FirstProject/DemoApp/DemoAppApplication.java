@@ -10,5 +10,6 @@ public class DemoAppApplication {
 		SpringApplication.run(DemoAppApplication.class, args);
 		System.out.println("Hello Demo App");
 		System.out.println("Writing in feature in branch");
+		System.out.println("/login");
 	}
 }

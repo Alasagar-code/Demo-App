@@ -14,5 +14,6 @@ public class DemoAppApplication {
 		System.out.println("Now changing in main branch");
 		System.out.println("changing in main");
 		System.out.println("changing in feature");
+		System.out.println("changing in feature2");
 	}
 }

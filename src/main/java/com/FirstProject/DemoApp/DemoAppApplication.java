@@ -13,5 +13,6 @@ public class DemoAppApplication {
 		System.out.println("/login");
 		System.out.println("Now changing in main branch");
 		System.out.println("changing in main");
+		System.out.println("changing in feature");
 	}
 }
